@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1647763198 source:c:\users\rohan roychowdhury\desktop\practicec\string.c
+	<stdio.h>
+	<string.h>
+	<stdio.h>
+
+1647763164 source:c:\users\rohan roychowdhury\desktop\practicec\problemstate.c
+	<stdio.h>
+
